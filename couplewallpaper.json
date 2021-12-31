@@ -4,11 +4,11 @@
     "animecouple"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111X",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712X",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110X",
+  "pub_id": "pub-5569984805152303",
+  "app_id": "ca-app-pub-5569984805152303~2810220965",
+  "admob_banner_id": "ca-app-pub-5569984805152303/4833749075",
+  "admob_interstitial_id": "ca-app-pub-5569984805152303/6885197348",
+  "admob_native_id": "ca-app-pub-5569984805152303/8241676890",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -26,9 +26,9 @@
   "unity_banner": "",
   "unity_interstitial": "",
 
-  "interstitial_inverval": 1,
+  "interstitial_inverval": 3,
 
-  "primary_ads": "UNITY",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
