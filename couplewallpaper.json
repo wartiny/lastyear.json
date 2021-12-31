@@ -20,11 +20,11 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "21077",
+  "startapp_app_id": "211838370",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4530291",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 
   "interstitial_inverval": 3,
 
