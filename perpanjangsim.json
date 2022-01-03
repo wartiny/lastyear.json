@@ -1,0 +1,100 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "SIM Online",
+      "title": "Via Aplikasi",
+      "image": "https://media.pricebook.co.id/article/5928fa6e150ba0c51d6d41f4/5928fa6e150ba0c51d6d41f4_1613049981.jpg",
+      "description": "Perpanjang Via Aplikasi Mobile",
+      "link": "https://darwindroid.github.io/gambar/viaaplikasi.html"
+    },
+    {
+      "id": 2,
+      "name_category": "SIM Online",
+      "title": "Perpanjang Via Website",
+      "image": "https://s.garasi.id/c1200x675/q99/article/e01ebd45-4bda-4c97-ae5a-1ae0208d79ff.jpeg",
+      "description": "Cara Perpanjang Via Website",
+      "link": "https://darwindroid.github.io/gambar/vaiwebsite.html"
+    },
+    {
+      "id": 3,
+      "name_category": "SIM Online",
+      "title": "Dokumen",
+      "image": "https://i.ytimg.com/vi/Oi4tpEVSH8Y/maxresdefault.jpg",
+      "description": "Dokumen Yang harus dipersiapkan",
+      "link": "https://darwindroid.github.io/gambar/dokumen.html"
+    },
+    {
+      "id": 4,
+      "name_category": "SIM Online",
+      "title": "Syarat dan Ketentuan",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg",
+      "description": "Syarat dan Ketentuan Perpanjang sim online",
+      "link": "https://darwindroid.github.io/gambar/ketentuan.html"
+    }
+  ]
+}
