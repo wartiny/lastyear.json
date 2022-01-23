@@ -64,8 +64,16 @@
   ],
 
   "Data": [
-        {
+            {
       "id": 1,
+      "name_category": "Easy",
+      "title": "Cek Saldo BPJSTK Disini",
+      "image": "https://blog.skillacademy.com/hs-fs/hubfs/Dashboard-BPJS-Ketenagakerjaan.png?width=600&name=Dashboard-BPJS-Ketenagakerjaan.png",
+      "description": "Silahkan Cek saldo BPJS Ketenagakerjaan Disini",
+      "link": "https://sso.bpjsketenagakerjaan.go.id"
+    },
+        {
+      "id": 2,
       "name_category": "Easy",
       "title": "Cek saldo BPJS Ketenagakerjaan melalui SMS",
       "image": "https://akcdn.detik.net.id/community/media/visual/2016/01/21/05ab827f-ff0d-4626-91d6-b10ffb42bbc2_169.jpg",
@@ -73,7 +81,7 @@
       "link": "https://wartiny.github.io/baru/melaluisms.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "Easy",
       "title": "Cek saldo BPJS Ketenagakerjaan melalui Mobile",
       "image": "https://asset.kompas.com/crops/0rdwbs91k4TSeY1K7eMDDR9XPw0=/0x0:817x545/780x390/data/photo/2021/09/04/6133260746c94.png",
@@ -81,7 +89,7 @@
       "link": "https://wartiny.github.io/baru/melalui%20mobile.html"
     },
     {
-      "id": 3,
+      "id": 4,
       "name_category": "Easy",
       "title": "Cara Cek saldo BPJS Ketenagakerjaan melalui web",
       "image": "https://images.bisnis-cdn.com/thumb/posts/2020/05/04/1236319/cara-cek-saldo-2-bpjs-ketenagakerjaan-2020-.jpg",
@@ -89,7 +97,7 @@
       "link": "https://wartiny.github.io/baru/melalui%20web.html"
     },
     {
-      "id": 4,
+      "id": 5,
       "name_category": "Easy",
       "title": "Apa itu Saldo BPJS ketenagakerjaan",
       "image": "https://pulsaseluler.com/blog/wp-content/uploads/cara-cek-saldo-bpjs-ketenagakerjaan-online.jpg",
