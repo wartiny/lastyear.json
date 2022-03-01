@@ -26,7 +26,7 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
-  "interstitial_inverval": 2,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
