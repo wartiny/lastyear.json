@@ -7,7 +7,7 @@
   "pub_id": "pub-5569984805152303",
   "app_id": "ca-app-pub-5569984805152303~6393893705",
   "admob_banner_id": "ca-app-pub-5569984805152303/5459906743",
-  "admob_interstitial_id": "ca-app-pub-5569984805152303/9077262712x",
+  "admob_interstitial_id": "ca-app-pub-5569984805152303/9077262712",
   "admob_native_id": "ca-app-pub-5569984805152303/4754874329",
 
   "admob_hpk_1": "",
@@ -26,7 +26,7 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 2,
 
   "primary_ads": "ADMOB",
   "list_ads": [
