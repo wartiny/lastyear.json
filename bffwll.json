@@ -4,8 +4,6 @@
     "bff"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-5569984805152303",
-  "app_id": "ca-app-pub-5569984805152303~6393893705",
   "admob_banner_id": "ca-app-pub-5569984805152303/5459906743",
   "admob_interstitial_id": "ca-app-pub-5569984805152303/9077262712",
   "admob_native_id": "ca-app-pub-5569984805152303/4754874329x",
@@ -15,10 +13,6 @@
   "admob_hpk_3": "",
   "admob_hpk_4": "",
   "admob_hpk_5": "",
-
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
 
   "startapp_app_id": "211490879",
 
@@ -32,7 +26,6 @@
   "list_ads": [
     "ADMOB",
     "STARTAPP",
-    "FAN"
     "UNITY"
   ]
 }
