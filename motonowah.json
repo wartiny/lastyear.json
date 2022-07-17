@@ -31,7 +31,7 @@
   "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "STARTAPP",
-    "FAN"
+    "UNITY",
+    "STARTAPP"
   ]
 }
