@@ -16,10 +16,6 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
-
   "startapp_app_id": "211838370",
 
   "unity_id": "4530291",
@@ -32,6 +28,6 @@
   "list_ads": [
     "ADMOB",
     "STARTAPP",
-    "FAN"
+    "UNITY"
   ]
 }
